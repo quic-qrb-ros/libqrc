@@ -41,13 +41,6 @@ Currently, we only support use QCLINUX to build
      (ssh) tar -zxf /opt/libqrc.tar.gz -C /opt/qcom/qirp-sdk/usr/
      ```
 
-## Packages
-
-Will update in the future.
-
-## Resources
-
-
 ## Contributions
 
 Thanks for your interest in contributing to libqrc! Please read our [Contributions Page](CONTRIBUTING.md) for more information on contributing features or bug fixes. We look forward to your participation!
